@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT shooter_4416.wsgi:application
